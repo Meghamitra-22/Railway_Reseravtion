@@ -175,6 +175,12 @@ Generates train-wise revenue information for a specified date range.
 ### `GetRefundReport`
 
 Returns refund information for a specified date range.
+## Example Queries
+
+The project includes example SQL queries for:
+- Finding all trains starting from New Delhi
+- Displaying the complete route of a particular train
+- Viewing all booked tickets with passenger details
 
 ---
 
